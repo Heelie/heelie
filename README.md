@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heelie)](https://github.com/anuraghazra/github-readme-stats)
+![Heelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heelie)
 
 - 👨 27 yo
 - 🐶 Always wanted to raise a Border Collie
