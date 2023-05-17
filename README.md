@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 ![Heelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heelie)
 
-- 👨 27 yo
+- 👨 29 yo
 - 🐶 Always wanted to raise a Border Collie
 - 🇨🇳 In Shanghai Now
-- 💻 php go
-- 😭 Unemployed
+- 🔧 php go python
+- 💻 DevOps
 
