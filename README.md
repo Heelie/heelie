@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 
 ![Heelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heelie)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heelie) -->
+
+
 - 👨 29 yo
 - 🐶 Always wanted to raise a Border Collie
 - 🇨🇳 In Shanghai Now
